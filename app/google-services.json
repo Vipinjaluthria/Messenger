@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "978929524988",
+    "firebase_url": "https://vipinsignin-469b3.firebaseio.com",
+    "project_id": "vipinsignin-469b3",
+    "storage_bucket": "vipinsignin-469b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978929524988:android:5a803432c15ab366603779",
+        "android_client_info": {
+          "package_name": "com.example.bottomnavigation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978929524988-e4pc74k8p5vtkq7lq77u6ams28r9i12o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBJLbvwTdp0CLIvGoNBY4mibHJzqH-nc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978929524988-5uclafq1afuknhmibkj25bg8jjetk21i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978929524988:android:3f4fb5802e41e718603779",
+        "android_client_info": {
+          "package_name": "com.example.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978929524988-67u7koqf27ntd535eljsec48r9cnmgoq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.messenger",
+            "certificate_hash": "9e5ce7c207e6bd801e40611459f4dd7962e55bbe"
+          }
+        },
+        {
+          "client_id": "978929524988-e4pc74k8p5vtkq7lq77u6ams28r9i12o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBJLbvwTdp0CLIvGoNBY4mibHJzqH-nc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978929524988-5uclafq1afuknhmibkj25bg8jjetk21i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

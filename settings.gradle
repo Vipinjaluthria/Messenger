@@ -1,0 +1,2 @@
+rootProject.name='Bottomnavigation'
+include ':app'
